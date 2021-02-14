@@ -62,7 +62,7 @@ This project is about showcasing the mixture of 2 brands Erdinger Weisbier's Des
 
 <h3>Design</h3>
 First we researched the logos and what can be done with it:<br>
-<img src="images/research.png" width="500" height="375">
+<img src="images/logo-study.png" width="500" height="375">
 <br>
 
 
